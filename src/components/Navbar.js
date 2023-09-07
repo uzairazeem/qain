@@ -138,7 +138,6 @@ export default function navbar() {
                   </li>
                 </ul>
               </li>
-
               <li className="nav-item page">
                 <a className="nav-link" href="/">
                   <b>About</b>
